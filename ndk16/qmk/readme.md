@@ -1,7 +1,6 @@
 # handwired/nk16o
 
-![ndk16](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/e6cc12e1-65b4-458a-9591-3325a66067f3)
-
+![ndk16](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/739dfeeb-6cf0-4c67-9100-5f9a37c662bf)
 
 The ndk16 is a 3d printed handwired numpad with an rotary encoder and oled screen. It runs QMK on a pro micro controller.
 
