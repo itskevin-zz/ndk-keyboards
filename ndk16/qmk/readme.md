@@ -8,7 +8,7 @@ The cat oled image comes from https://github.com/codeyfrommars/Gamepad.
 
 * Keyboard Maintainer: [iskevin-zz](https://github.com/itskevin-zz)
 * Hardware Supported: ATmega32u4
-* Hardware Availability: STL Files
+* Hardware Availability: [STL Files](https://github.com/itskevin-zz/ndk-keyboards/tree/master/ndk16/STL)
 
 Make example for this keyboard (after setting up your build environment):
 
