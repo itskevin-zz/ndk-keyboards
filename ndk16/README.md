@@ -13,6 +13,4 @@ The cat oled image comes from https://github.com/codeyfrommars/Gamepad.
 
 ## Bootloader
 
-Enter the bootloader in 3 ways:
-
 * **Bootmagic reset**: Hold down the rotary encoder and plug in the keyboard
