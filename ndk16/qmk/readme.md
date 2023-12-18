@@ -2,11 +2,13 @@
 
 ![handwired/nk16o](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+The ndk16 is a 3d printed handwired numpad with an rotary encoder and oled screen. It runs QMK on a pro micro controller.
 
-* Keyboard Maintainer: [Kevin](https://github.com/itskevin-zz)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+The cat oled image comes from https://github.com/codeyfrommars/Gamepad.
+
+* Keyboard Maintainer: [iskevin-zz](https://github.com/itskevin-zz)
+* Hardware Supported: ATmega32u4
+* Hardware Availability: STL Files
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -20,8 +22,4 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 ## Bootloader
 
-Enter the bootloader in 3 ways:
-
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+* **Bootmagic reset**: Hold down the rotary encoder and plug in the keyboard
