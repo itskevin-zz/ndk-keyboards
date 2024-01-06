@@ -1,6 +1,6 @@
 # ndk15
 
-![ndk15](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/d59805fb-0650-43b3-82d1-ca93b9f2e8bb)
+<img src="https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/d59805fb-0650-43b3-82d1-ca93b9f2e8bb" width="600">
 
 The ndk15 is a 3d printed handwired 4x4 macropad with a rotary encoder.
 
