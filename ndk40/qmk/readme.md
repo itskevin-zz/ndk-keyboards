@@ -1,6 +1,6 @@
 # handwired/ndk/ndk40
 
-![ndk40-1](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/ddf343d5-bcbd-4952-9603-62ac8e05d366)
+<img src="https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/ddf343d5-bcbd-4952-9603-62ac8e05d366" width="600">
 
 40-ish% staggered handwired keyboard with a bottom-row designed for those who use their right thumb for space. This allows the left thumb to access to 1u keys for Lower and Raise layers. 
 

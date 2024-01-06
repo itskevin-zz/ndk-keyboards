@@ -1,6 +1,6 @@
 # ndk40
 
-![ndk40-1](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/ddf343d5-bcbd-4952-9603-62ac8e05d366)
+<img src="https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/ddf343d5-bcbd-4952-9603-62ac8e05d366" width="600">
 
 A 3D printed 40% handwired keyboard with two 1u keys under the left thumb to manage layers and combos. Included are firmware and code for both ZMK and QMK (I haven't run this yet). The goal was to design a 40% keyboard that could be printed in one go. 
 

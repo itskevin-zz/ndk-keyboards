@@ -1,6 +1,6 @@
 # handwired/ndk/ndk15
 
-![handwired/ndk/ndk15](imgur.com image replace me!)
+<img src="https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/d59805fb-0650-43b3-82d1-ca93b9f2e8bb" width="600">
 
 *A short description of the keyboard/project*
 
