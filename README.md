@@ -1,4 +1,5 @@
 # NDK Keyboards
+<img src="https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/43bbad0a-0522-439f-914f-95a44d041d5e">
 A collection of custom designed keyboards and macropads. 
 
 ## Collection
