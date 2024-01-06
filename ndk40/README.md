@@ -5,9 +5,9 @@
 A 3D printed 40% handwired keyboard with two 1u keys under the left thumb to manage layers and combos. Included are firmware and code for both ZMK and QMK (I haven't run this yet). The goal was to design a 40% keyboard that could be printed in one go. 
 
 ## Hardware
-**Controller**: Nice!nano or Pro Micro
-**Breakout Board**: The bottom half has room for you to use a breakout board for the usb-c connection.
-**Stabilizer**: 1x 2u stabilizer
+* **Controller**: Nice!nano or Pro Micro
+* **Breakout Board**: The bottom half has room for you to use a breakout board for the usb-c connection.
+* **Stabilizer**: 1x 2u stabilizer
 
 ## Keycap Support
 I designed this to be able to be used with cherry profiles that have commonly available delete, enter, esc 40s support. If you are looking at cherry keycaps this is what you will need:
