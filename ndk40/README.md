@@ -18,3 +18,6 @@ I designed this to be able to be used with cherry profiles that have commonly av
 ## 3D Printing
 This was printed on a Prusa MKS3+ and it takes up the maximum possible size of the plate on the x-axis. The bottom half has placeholder for the controller to sit in the centre of the case with a place to wire in a USB-C breakout board, specifically a treedix USB-C board. I didn't implement this in my final build but did test fit it. I've included a small little controller platform and holder if you don't want to use a breakout board.
 ![ndk40-prusa1](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/a57a67bd-8a97-4d99-acc2-16add8b6262e)
+
+# Firmware
+The initial design was built with the nice!nano controller in mind. ZMK repo for the [ndk40 is here](https://github.com/itskevin-zz/zmk-config-ndk40). Given that the nice!nano is a drop in replacement for a promicro, firmware has been provided for [that as well](https://github.com/itskevin-zz/ndk-keyboards/tree/master/ndk40/qmk).

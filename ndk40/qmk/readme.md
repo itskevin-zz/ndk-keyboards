@@ -1,6 +1,6 @@
 # handwired/ndk/ndk40
 
-![handwired/ndk/ndk40](imgur.com image replace me!)
+![ndk40-1](https://github.com/itskevin-zz/ndk-keyboards/assets/7293885/ddf343d5-bcbd-4952-9603-62ac8e05d366)
 
 40-ish% staggered handwired keyboard with a bottom-row designed for those who use their right thumb for space. This allows the left thumb to access to 1u keys for Lower and Raise layers. 
 
@@ -10,11 +10,14 @@ I designed this to be able to be used with cherry profiles that have commonly av
 * A row: 1.25u Tab, 1.5u Enter
 * Z row: 1.75u Shift
 
-In addition, the 3d printed case files have room for a battery if you want to go wireless with a nice!nano. you can find ZMK [repo here](https://github.com/itskevin-zz/zmk-config-ndk40).
+In addition, the 3d printed case files has room for a battery if you want to go wireless with a nice!nano. you can find ZMK [repo here](https://github.com/itskevin-zz/zmk-config-ndk40).
 
 * Keyboard Maintainer: [Kevin](https://github.com/itskevin-zz)
 * Hardware Supported: handwired, ATmega32u4
-* Hardware Availability: to be added
+* Hardware Availability: [STL files](https://github.com/itskevin-zz/ndk-keyboards/tree/master/ndk40/STL) 
+
+## QMK
+To build with QMK you will need to copy this folder into keyboards/handwired/ndk and then run the make commands. 
 
 Make example for this keyboard (after setting up your build environment):
 
